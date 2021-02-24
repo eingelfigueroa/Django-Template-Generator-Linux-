@@ -112,6 +112,7 @@ createFolder
 venv
 app
 cd ..
+echo "Opening VS code for you"
 code .
 
 
